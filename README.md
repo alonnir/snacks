@@ -19,6 +19,8 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 
 ## Getting Started
 
-- [D3 Graph Theory - learn graph theory interactively](https://d3gt.com/index.html) - a friendly interactive broswer based introduction to grpah theory. This is a great place to get started and learn the terminology, basics, and logic behind it all.
+- [D3 Graph Theory - learn graph theory interactively](https://d3gt.com/index.html) - a friendly broswer based introduction to grpah theory. This is a great place to get started and learn the terminology, basics, and logic behind it all.
 
-- 
+Got the basic theory out of the way? Great! Next step is to get your hands dirty and see it in action in Python.
+
+- Workshop: [Mridul Seth](https://github.com/MridulS), [Eric Ma](https://github.com/ericmjl) - Network Analysis Made Simple - PyCon 2019. [Video](https://www.youtube.com/watch?v=eZs4MECCuYY), and [notebooks](https://github.com/ericmjl/Network-Analysis-Made-Simple).
