@@ -14,3 +14,11 @@ The idea here is that unlike an awesome list, one can definitely get though all 
 </br>
 
 Still want the awesome list? [Look no further](https://github.com/briatte/awesome-network-analysis).
+
+***
+
+## Getting Started
+
+- [D3 Graph Theory - learn graph theory interactively](https://d3gt.com/index.html) - a friendly interactive broswer based introduction to grpah theory. This is a great place to get started and learn the terminology, basics, and logic behind it all.
+
+- 
