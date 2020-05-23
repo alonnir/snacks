@@ -25,9 +25,9 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 
 2. Nailed down the basic theory? Great! The next step is to get your hands dirty and see it in action in Python. The best place to start is with the **[`networkx`](http://networkx.github.io/)**. It has friendly API, [great documentation](https://networkx.github.io/documentation/stable/index.html), it's vast and stable. Available in a package manager near you! 
 
-- `pip install networkx` 
+  - `pip install networkx` 
 
-- Then take 3 hours for: Workshop: [Mridul Seth](https://github.com/MridulS), [Eric Ma](https://github.com/ericmjl) - **Network Analysis Made Simple - PyCon 2019.** [Video](https://www.youtube.com/watch?v=eZs4MECCuYY), and [notebooks](https://github.com/ericmjl/Network-Analysis-Made-Simple).
+  - Then take 3 hours for: Workshop: [Mridul Seth](https://github.com/MridulS), [Eric Ma](https://github.com/ericmjl) - **Network Analysis Made Simple - PyCon 2019.** [Video](https://www.youtube.com/watch?v=eZs4MECCuYY), and [notebooks](https://github.com/ericmjl/Network-Analysis-Made-Simple).
 
 
 ## Getting Smarter
