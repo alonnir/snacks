@@ -17,6 +17,17 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 
 ***
 
+## Table of Contents
+- [Intro](#intro)
+- [Getting Started](#getting-started)
+- [Getting Smarter](#getting-smarter)
+- [MOOCs](#moocs)
+- [Tools](#tools)
+- [Future](#future)
+- [Footnotes](#footnotes)
+
+***
+
 ## Getting Started
 
 0. Play with [Nick Case](https://twitter.com/ncasenmare)'s excellent **[the wisdom and/or madness of crowds – an interactive guide to human networks](https://ncase.me/crowds/)** to get some inspiration. This is not a must step in your learning journey, but could definitely make you excited and hungry to learn more.
@@ -54,6 +65,24 @@ A few good resources for those comfortable with the fundamentals and want to pur
 (Massive open online courses)
 
 TBC
+
+
+***
+
+## Tools
+
+TBC
+
+***
+
+## Future
+
+There exists a future where this resource includes:
+
+* a well structured learning path or curriculum, or perhaps a taxonomy that states the best resource (or few resources) for each given topic.
+* a glossary, one centralised, clear and consistent place for definitions and terminology.
+
+But... baby steps.
 
 
 ***
