@@ -19,7 +19,7 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 
 ## Getting Started
 
-0. Play with [Nick Case](https://twitter.com/ncasenmare)'s excellent `[the wisdom and/or madness of crowds – an interactive guide to human networks](https://ncase.me/crowds/)` to get some inspiration. This is not a must step in your learning journey, but could definitely make you excited and hungry to learn more.
+0. Play with [Nick Case](https://twitter.com/ncasenmare)'s excellent `[the wisdom and/or madness of crowds – an interactive guide to human networks]`(https://ncase.me/crowds/) to get some inspiration. This is not a must step in your learning journey, but could definitely make you excited and hungry to learn more.
 
 1. `[D3 Graph Theory - learn graph theory interactively](https://d3gt.com/index.html)` - a friendly broswer based introduction to grpah theory. This is a great place to get started and learn the terminology, basics, and logic behind it all.
 
