@@ -38,7 +38,7 @@ A few good resources for those comfortable with the fundamentals and want to pur
   - [Book as one long PDF file](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
   - or [table of contents with a PDF per chapter](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 
-If you prefer a [MOOC](#MOOCs), Easley, Kleinberg and [Eva Tardos](https://en.wikipedia.org/wiki/%C3%89va_Tardos) offered a similar course on EdX, which has been archived but the materials are still available [here](https://www.edx.org/course/networks-crowds-and-markets).
+  If you prefer a [MOOC](#MOOCs), Easley, Kleinberg and [Eva Tardos](https://en.wikipedia.org/wiki/%C3%89va_Tardos) offered a similar course on EdX, which has been archived but the materials are still available [here](https://www.edx.org/course/networks-crowds-and-markets).
 
 - **Network Science** by [Albert-László Barabási](https://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si) is also [available freely](http://networksciencebook.com/) online, in a jazzed up version.
 
@@ -53,7 +53,7 @@ If you prefer a [MOOC](#MOOCs), Easley, Kleinberg and [Eva Tardos](https://en.wi
 
 (Massive open online courses)
 
-TBD
+TBC
 
 
 ***
