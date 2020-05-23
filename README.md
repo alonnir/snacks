@@ -27,7 +27,7 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 
 - `pip install networkx` 
 
-- Then take 3 hours for: **Workshop: [Mridul Seth](https://github.com/MridulS), [Eric Ma](https://github.com/ericmjl) - Network Analysis Made Simple - PyCon 2019.** [Video](https://www.youtube.com/watch?v=eZs4MECCuYY), and [notebooks](https://github.com/ericmjl/Network-Analysis-Made-Simple).
+- Then take 3 hours for: Workshop: [Mridul Seth](https://github.com/MridulS), [Eric Ma](https://github.com/ericmjl) - **Network Analysis Made Simple - PyCon 2019.** [Video](https://www.youtube.com/watch?v=eZs4MECCuYY), and [notebooks](https://github.com/ericmjl/Network-Analysis-Made-Simple).
 
 
 ## Getting Smarter
