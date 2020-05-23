@@ -32,7 +32,7 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 
 ## Getting Smarter
 
-- **Networks, Crowds, and Markets** by [David Easley](https://en.wikipedia.org/wiki/David_Easley) and [https://en.wikipedia.org/wiki/Jon_Kleinberg](https://en.wikipedia.org/wiki/Jon_Kleinberg) <sup>1</sup> is an excellent book. The authors made it freely available online:
+- **Networks, Crowds, and Markets** by [David Easley](https://en.wikipedia.org/wiki/David_Easley) and [https://en.wikipedia.org/wiki/Jon_Kleinberg](https://en.wikipedia.org/wiki/Jon_Kleinberg)<sup>[1](</sup> is an excellent book. The authors made it freely available online:
   - [Book as one long PDF file](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
   - or [table of contents with a PDF per chapter](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 
@@ -40,9 +40,19 @@ If you prefer a [MOOC](#MOOCs), Easley, Kleinberg and [Eva Tardos](https://en.wi
 
 
 
-* btw, Kleinberg is known for developing the [HITS Algorithm](https://en.wikipedia.org/wiki/HITS_algorithm), which you'll come across sooner or later.
+
+
 
 
 ***
 
 ## MOOCs
+
+
+
+
+***
+
+## Footnotes
+
+<sup>1</sup> Kleinberg developed the [HITS Algorithm](https://en.wikipedia.org/wiki/HITS_algorithm), which you'll come across sooner or later. 
