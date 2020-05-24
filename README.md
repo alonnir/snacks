@@ -3,7 +3,7 @@ SNAck size awesome list for social network analysis resources.
 
 
 ## Intro
-Not another awesome list.<br>
+_Not another awesome list._<br>
 While awesome lists can indeed be awesome, they can also be daunting and evoke a strong sense of FOMO.
 This repo's mission is to be a snack size version of an awesome list, providing a highly curated, human friendly, and most importantly digestable list of resources for anyone interested in SNA.
 </br>
