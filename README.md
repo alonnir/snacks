@@ -43,7 +43,9 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 
 ## Getting Smarter
 
-A few good resources for those comfortable with the fundamentals and want to pursue a deeper and wider understanding. These can be challenging at times, so do not feel bad 
+A few good resources for those comfortable with the fundamentals and want to pursue a deeper and wider understanding. These can be challenging at times, so don't feel bad if you're making slower progress here.
+
+- **Network Science** by [Albert-László Barabási](https://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si) is [available freely](http://networksciencebook.com/) online, in a jazzed up version of the book.
 
 - **Networks, Crowds, and Markets** by [David Easley](https://en.wikipedia.org/wiki/David_Easley) and [https://en.wikipedia.org/wiki/Jon_Kleinberg](https://en.wikipedia.org/wiki/Jon_Kleinberg)<sup>[1](#Footnotes)</sup> is an excellent book. The authors made it freely available online:
   - [Book as one long PDF file](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
@@ -51,7 +53,6 @@ A few good resources for those comfortable with the fundamentals and want to pur
 
   If you prefer a [MOOC](#MOOCs), Easley, Kleinberg and [Eva Tardos](https://en.wikipedia.org/wiki/%C3%89va_Tardos) offered a similar course on EdX, which has been archived but the materials are still available [here](https://www.edx.org/course/networks-crowds-and-markets).
 
-- **Network Science** by [Albert-László Barabási](https://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si) is also [available freely](http://networksciencebook.com/) online, in a jazzed up version.
 
 
 
