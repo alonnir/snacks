@@ -32,6 +32,8 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 
 0. Play with [Nick Case](https://twitter.com/ncasenmare)'s excellent **[the wisdom and/or madness of crowds – an interactive guide to human networks](https://ncase.me/crowds/)** to get some inspiration. This is not a must step in your learning journey, but could definitely make you excited and hungry to learn more.
 
+0.5. _Optional,_ [Vaidehi Joshi](https://github.com/vaidehijoshi) has a very palatable [A Gentle Introduction To Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory) blog post, and the content is also available as a [video](https://dev.to/vaidehijoshi/graph-theory--basecs-video-series-1cpo). This is optional material as it's very introductory and lacks a lot of the terminology you'll come across later (for example, in the next resource).
+
 1. **[D3 Graph Theory - learn graph theory interactively](https://d3gt.com/index.html)** - a friendly broswer based introduction to grpah theory. This is a great place to get started and learn the terminology, basics, and logic behind it all.
 
 2. Nailed down the basic theory? Great! The next step is to get your hands dirty and see it in action in Python. The best place to start is with the **[`networkx`](http://networkx.github.io/)**. It has friendly API, [great documentation](https://networkx.github.io/documentation/stable/index.html), it's vast and stable. Available in a package manager near you! 
@@ -43,7 +45,7 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 
 ## Getting Smarter
 
-A few good resources for those comfortable with the fundamentals and want to pursue a deeper and wider understanding. These can be challenging at times, so don't feel bad if you're making slower progress here.
+A few good resources for those comfortable with the fundamentals and want to pursue a deeper and wider understanding. These can be challenging at times, so don't feel bad if you're making slower progress here. Of course, feel free to pick and choose the contents (or chapters) that you're most interested in.
 
 - **Network Science** by [Albert-László Barabási](https://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si) is [available freely](http://networksciencebook.com/) online, in a jazzed up version of the book.
 
