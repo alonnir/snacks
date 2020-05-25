@@ -32,7 +32,7 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 
 0. Play with [Nick Case](https://twitter.com/ncasenmare)'s excellent **[the wisdom and/or madness of crowds – an interactive guide to human networks](https://ncase.me/crowds/)** to get some inspiration. This is not a must step in your learning journey, but could definitely make you excited and hungry to learn more.
 
-  0.5. _Optional,_ [Vaidehi Joshi](https://github.com/vaidehijoshi) has a very palatable [A Gentle Introduction To Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory) blog post, and the content is also available as a [video](https://dev.to/vaidehijoshi/graph-theory--basecs-video-series-1cpo). This is optional material as it's very introductory and lacks a lot of the terminology you'll come across later (for example, in the next resource).
+   0.5. _Optional,_ [Vaidehi Joshi](https://github.com/vaidehijoshi) has a very palatable [A Gentle Introduction To Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory) blog post, and the content is also available as a [video](https://dev.to/vaidehijoshi/graph-theory--basecs-video-series-1cpo). This is optional material as it's very introductory and lacks a lot of the terminology you'll come across later (for example, in the next resource).
 
 1. **[D3 Graph Theory - learn graph theory interactively](https://d3gt.com/index.html)** - a friendly broswer based introduction to grpah theory. This is a great place to get started and learn the terminology, basics, and logic behind it all.
 
