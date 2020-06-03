@@ -36,7 +36,7 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 
 1. **[D3 Graph Theory - learn graph theory interactively](https://d3gt.com/index.html)** - a friendly broswer based introduction to grpah theory. This is a great place to get started and learn the terminology, basics, and logic behind it all.
 
-2. Nailed down the basic theory? Great! The next step is to get your hands dirty and see it in action in Python. The best place to start is with the **[`networkx`](http://networkx.github.io/)**. It has friendly API, [great documentation](https://networkx.github.io/documentation/stable/index.html), it's vast and stable. Available in a package manager near you! 
+2. Nailed down the basic theory? Great! The next step is to get your hands dirty and see it in action in Python. The best place to start is with the **[`NetworkX`](http://networkx.github.io/)**. It has friendly API, [great documentation](https://networkx.github.io/documentation/stable/index.html), it's vast and stable. Available in a package manager near you! 
 
   - `pip install networkx` 
 
@@ -75,7 +75,9 @@ TBC
 ## Tools
 
 #### Python:
-- **[`networkx`](https://networkx.github.io/)**: as mentioned above, this is the preferred place to start. Easy API, great documentation, rich functionality. If you're just getting started with network analysis in Python, this is the module you'd like to use.
+- **[`NetworkX`](https://networkx.github.io/)**: as mentioned above, this is the preferred place to start. Easy API, great documentation, rich functionality. If you're just getting started with network analysis in Python, this is the module you'd like to use. 
+- **[`PyGraphistry`](https://github.com/graphistry/pygraphistry)**: great tool for visually exploring larger graphs (one of the things where NetowrkX lags behind). Plays nicely out-of-the-box with NetworkX graphs or even Pandas (as well as plenty of other popular tools).
+- TBC
 
 ***
 
