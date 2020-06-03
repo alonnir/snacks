@@ -74,7 +74,8 @@ TBC
 
 ## Tools
 
-TBC
+#### Python:
+- **[`networkx`](https://networkx.github.io/)**: as mentioned above, this is the preferred place to start. Easy API, great documentation, rich functionality. If you're just getting started with network analysis in Python, this is the module you'd like to use.
 
 ***
 
