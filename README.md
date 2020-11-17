@@ -47,7 +47,7 @@ A few good resources for those comfortable with the fundamentals and want to pur
 
 - **Network Science** by [Albert-László Barabási](https://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si) is [available freely](http://networksciencebook.com/) online, in a jazzed up version of the book.
 
-- **Networks, Crowds, and Markets** by [David Easley](https://en.wikipedia.org/wiki/David_Easley) and [https://en.wikipedia.org/wiki/Jon_Kleinberg](https://en.wikipedia.org/wiki/Jon_Kleinberg)<sup>[1](#fn1)</sup> is an excellent book. The authors made it freely available online:
+- **Networks, Crowds, and Markets** by [David Easley](https://en.wikipedia.org/wiki/David_Easley) and [Jon Kleinberg](https://en.wikipedia.org/wiki/Jon_Kleinberg)<sup>[1](#fn1)</sup> is an excellent book. The authors made it freely available online:
   - [Book as one long PDF file](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
   - or [table of contents with a PDF per chapter](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 
