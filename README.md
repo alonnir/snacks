@@ -22,6 +22,7 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 - [MOOCs](#moocs)
 - [Tools](#tools)
 - [Future](#future)
+- [Full Disclosure](#full-disclosure)
 - [Footnotes](#footnotes)
 
 ***
