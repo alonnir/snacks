@@ -42,6 +42,8 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 
 3. Take 3 hours for **Network Analysis Made Simple - PyCon 2019.** [Video](https://www.youtube.com/watch?v=eZs4MECCuYY) and [notebooks](https://github.com/ericmjl/Network-Analysis-Made-Simple), a workshop by [Mridul Seth](https://github.com/MridulS), [Eric Ma](https://github.com/ericmjl) which ties together introductory theory and hands-on practice (with NetworkX, of course).
 
+4. Practice. The [Game of Thrones](https://ericmjl.github.io/Network-Analysis-Made-Simple/05-casestudies/01-gameofthrones/) and [Airport Network](https://ericmjl.github.io/Network-Analysis-Made-Simple/05-casestudies/02-airport/) case studies are a good place to practice what you've learned - and level up your knowledge and understanding.
+
 
 ## Getting Smarter
 
