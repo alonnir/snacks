@@ -87,6 +87,11 @@ But... baby steps.
 
 ***
 
+## Full Disclosure
+Some of the materials linked above are by [Eric Ma](https://github.com/ericmjl), who is a contributor to this repo.
+
+***
+
 ## Footnotes
 
 <a name="fn1"><sup>1</sup></a> Kleinberg developed the [HITS Algorithm](https://en.wikipedia.org/wiki/HITS_algorithm), which you'll come across sooner or later.
