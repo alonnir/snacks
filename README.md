@@ -63,9 +63,11 @@ A few good resources for those comfortable with the fundamentals and want to pur
 
 ## MOOCs
 
-(Massive open online courses)
+Massive Open Online Courses, to those who like a course-like experience. Free to learn courses:
+- [Coursera - Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
+- [Coursera - Social Network Analysis](https://www.coursera.org/learn/social-network-analysis#syllabus)
+- [Coursera - Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks)
 
-TBC
 
 
 ***
