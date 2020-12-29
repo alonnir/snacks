@@ -37,8 +37,10 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 2. Nailed down the basic theory? Great! The next step is to get your hands dirty and see it in action in Python. The best place to start is with the **[`NetworkX`](http://networkx.github.io/)**. It has friendly API, [great documentation](https://networkx.github.io/documentation/stable/index.html), it's vast and stable. Available in a package manager near you!
 
   - `pip install networkx`
+  
+  - Get familiar with [The NetworkX API](https://ericmjl.github.io/Network-Analysis-Made-Simple/01-introduction/02-networkx-intro/).
 
-  - Then take 3 hours for: Workshop: [Mridul Seth](https://github.com/MridulS), [Eric Ma](https://github.com/ericmjl) - **Network Analysis Made Simple - PyCon 2019.** [Video](https://www.youtube.com/watch?v=eZs4MECCuYY) and [notebooks](https://github.com/ericmjl/Network-Analysis-Made-Simple).
+3. Take 3 hours for **Network Analysis Made Simple - PyCon 2019.** [Video](https://www.youtube.com/watch?v=eZs4MECCuYY) and [notebooks](https://github.com/ericmjl/Network-Analysis-Made-Simple), a workshop by [Mridul Seth](https://github.com/MridulS), [Eric Ma](https://github.com/ericmjl) which ties together introductory theory and hands-on practice (with NetworkX, of course).
 
 
 ## Getting Smarter
