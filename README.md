@@ -79,6 +79,9 @@ Massive Open Online Courses, to those who like a course-like experience. Free to
 - **[`PyGraphistry`](https://github.com/graphistry/pygraphistry)**: great tool for visually exploring larger graphs (one of the things where NetowrkX lags behind). Plays nicely out-of-the-box with NetworkX graphs or even Pandas (as well as plenty of other popular tools).
 - **[`nxviz`](https://github.com/ericmjl/nxviz)**: A declarative package for plotting NetworkX graphs _rationally_. Implements Circos plots, adjacency matrix plots, and more.
 
+#### Other:
+-- **[Gephi](https://gephi.org/)**: an open-source desktop software to explore and analyse networks.
+
 ***
 
 ## Future
