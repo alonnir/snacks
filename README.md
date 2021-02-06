@@ -81,7 +81,7 @@ Massive Open Online Courses, to those who like a course-like experience. Free to
 - **[`nxviz`](https://github.com/ericmjl/nxviz)**: A declarative package for plotting NetworkX graphs _rationally_. Implements Circos plots, adjacency matrix plots, and more.
 
 #### Other:
--- **[Gephi](https://gephi.org/)**: an open-source desktop software to explore and analyse networks.
+- **[Gephi](https://gephi.org/)**: an open-source desktop software to explore and analyse networks. Also check out the tutorial by [kateto](https://github.com/kateto) [here](https://kateto.net/tutorials/).
 
 ***
 
