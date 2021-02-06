@@ -21,6 +21,7 @@ Still want the awesome list? [Look no further](https://github.com/briatte/awesom
 - [Getting Smarter](#getting-smarter)
 - [MOOCs](#moocs)
 - [Tools](#tools)
+- [Datasets](#datasets)
 - [Future](#future)
 - [Full Disclosure](#full-disclosure)
 - [Footnotes](#footnotes)
@@ -81,6 +82,15 @@ Massive Open Online Courses, to those who like a course-like experience. Free to
 
 #### Other:
 -- **[Gephi](https://gephi.org/)**: an open-source desktop software to explore and analyse networks.
+
+***
+
+## Datasets
+
+The following resources contain a large selection of network related datasets for you to practice and learn from:
+- [Network Repository](http://networkrepository.com/) - a scientific network data repository with interactive visualization and mining tools.
+- [Netzschleuder](https://networks.skewed.de/) - network catalogue, repository and centrifuge.
+- [SNAP](https://snap.stanford.edu/data/) - Stanford large network dataset collection.
 
 ***
 
